@@ -16,7 +16,7 @@ This module is simply allows you to send email. You don't need to write code in 
 git clone https://github.com/magentokid/EmailHelper.git
 put inside app/code/MagentoKid/EmailHelper
 
-php bin/magento setup:upgrade --keep-generated
-php bin/magento setup:di:compile
+1) php bin/magento setup:upgrade --keep-generated
+2) php bin/magento setup:di:compile
 
 
